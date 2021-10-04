@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Dandu-Alekya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning the fundamentals of web development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Dandu-Alekya, a 4th year ECE student, looking to enchance her coding skills
+- 🌱 I’m currently learning the fundamentals of web development, software testing and DSA.
 
 <!---
 Dandu-Alekya/Dandu-Alekya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
