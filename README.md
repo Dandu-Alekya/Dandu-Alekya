@@ -2,9 +2,9 @@
 - 🌱 I’m currently learning the fundamentals of web development, software testing and DSA.
 
 
-![Alekya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandu-Alekya&show_icons=true&theme=slateorange)
+![Alekya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dandu-Alekya&hide=issues&show_icons=true&theme=slateorange)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu-Alekya)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu-Alekya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
