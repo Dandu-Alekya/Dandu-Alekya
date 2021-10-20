@@ -1,7 +1,22 @@
 ![akhibanner](https://user-images.githubusercontent.com/69137526/138030943-24719636-5593-43aa-9e46-8e6c096eabbb.png)
 
-- 👋 Hi, I’m @Dandu-Alekya, a 4th year ECE student, looking to enchance her coding skills
-- 🌱 I’m currently learning the fundamentals of web development, software testing and DSA.
+Heyyy! My name is Alekya Dandu, a student at KL University Hyderabad. I am currently pursuing my B.Tech in Electronics and Communications (ECE)
+
+I am self-taught programmer, looking forward to learn and explore new techonologies. I recently started learning the fundamentals of web development and contributing to open source projects.
+
+During my free time, you ll find me watching anime, reading manga or exploring new music. I am an avid reader, and I love expressing myself through my art, either through writing or painting.
+
+<!--If you interested in web dev, testing or all things tech, Feel free to check out my <a href="https://alekya.hashnode.dev/">blog</a>!! -->
+
+#### Tech Stack  I use
+    - C++
+    - C
+    - Java
+    - Python
+    - HTML
+    - CSS
+    - JavaScript 
+
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=Dandu-Alekya&hide=issues&show_icons=true&theme=slateorange&bg_color=F9DBD4&icon_color=FCBF49&title_color=506b5d&text_color=CD8B73"/> <br><br>
    <img src="https://komarev.com/ghpvc/?username=Dandu-Alekya&style=flat-square&color=F9DBD4">
