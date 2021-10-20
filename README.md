@@ -4,7 +4,7 @@ Heyyy! My name is Alekya Dandu, a student at KL University Hyderabad. I am curre
 
 I am a self-taught programmer, looking forward to learn and explore new techonologies. I recently started learning the fundamentals of web development and contributing to open source projects.
 
-During my free time, you ll find me watching anime, reading manga or exploring new music. I am an avid reader, and I love expressing myself through my art, either through writing or painting.
+During my free time, you'll find me watching anime, reading manga or exploring new music. I am an avid reader, and I love expressing myself through my art, either through writing or painting.
 
 <!--If you interested in web dev, testing or all things tech, Feel free to check out my <a href="https://alekya.hashnode.dev/">blog</a>!! -->
 
@@ -21,11 +21,11 @@ During my free time, you ll find me watching anime, reading manga or exploring n
   <img src="https://github-readme-stats.vercel.app/api?username=Dandu-Alekya&hide=issues&show_icons=true&theme=slateorange&bg_color=F9DBD4&icon_color=FCBF49&title_color=506b5d&text_color=CD8B73"/> <br><br>
    <img src="https://komarev.com/ghpvc/?username=Dandu-Alekya&style=flat-square&color=F9DBD4">
  </p> 
-
+<hr>
 <div align="center">
-  <p>Connect with me!!</p>
+    <p><i>Connect with me!!</i></p>
 <a href="https://www.linkedin.com/in/alekya-dandu-951630207/"><img src="https://user-images.githubusercontent.com/69137526/138039720-66eb65c6-9e7b-482f-b1c0-4c3e56c7b344.png" height="50" width="50"></a>
-<a href=" "><img src="https://user-images.githubusercontent.com/69137526/138039802-352c5b62-4b80-4172-a95b-15a186e20c24.png" height="50" width="50"></a>
+<a href="https://www.instagram.com/iamthetearinyourheart/"><img src="https://user-images.githubusercontent.com/69137526/138039802-352c5b62-4b80-4172-a95b-15a186e20c24.png" height="50" width="50"></a>
 <img src="https://user-images.githubusercontent.com/69137526/138039938-e2031314-2a7d-4152-b08f-f97296cf58a9.png" height="50" width="50">
 </div>
 
