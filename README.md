@@ -31,10 +31,11 @@ During my free time, you'll find me watching anime, reading manga or exploring n
 
  <details>
    <summary>More GitHub Stats:</summary>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dandu-Alekya&theme=dark&background=F9DBD4&ring=506b5d&fire=FCBF49&currStreakLabel=506b5d&sideLabels=CD8B73&sideNums=CD8B73&currStreakNum=CD8B73&stroke=CD8B73)](https://git.io/streak-stats"/> 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu-Alekya&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dandu-Alekya&theme=dark&background=F9DBD4&ring=506b5d&fire=FCBF49&currStreakLabel=506b5d&sideLabels=CD8B73&sideNums=CD8B73&currStreakNum=CD8B73&stroke=CD8B73)](https://git.io/streak-stats"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu-Alekya&layout=compact&bg_color=F9DBD4&title_color=506b5d&text_color=CD8B73)](https://github.com/anuraghazra/github-readme-stats)"/>
+    
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dandu-Alekya&layout=compact&bg_color=F9DBD4&title_color=506b5d&text_color=CD8B73)](https://github.com/anuraghazra/github-readme-stats)
+</details>-->
 
 <!---
 Dandu-Alekya/Dandu-Alekya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
