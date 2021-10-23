@@ -20,7 +20,13 @@ During my free time, you'll find me watching anime, reading manga or exploring n
 <p align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=Dandu-Alekya&hide=issues&show_icons=true&theme=slateorange&bg_color=F9DBD4&icon_color=FCBF49&title_color=506b5d&text_color=CD8B73"/> <br><br>
    <img src="https://komarev.com/ghpvc/?username=Dandu-Alekya&style=flat-square&color=F9DBD4">
- </p> 
+ </p>
+  <!--<details>
+   <summary>Projects:</summary>
+        1. Movie Reccomendation System
+        2. Text to speech system
+    </details>
+-->
 <hr>
 <div align="center">
     <p><i>Connect with me!!</i></p>
